@@ -8,3 +8,4 @@
 2. e upto N digits
 3. Fibonacci Series
 4. Prime Factorization 
+5. Next Prime Number
