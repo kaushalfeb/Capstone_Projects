@@ -9,3 +9,4 @@
 3. Fibonacci Series
 4. Prime Factorization 
 5. Next Prime Number
+6. Cost of Tile to Cover W x H Floor
