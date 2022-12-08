@@ -10,3 +10,11 @@
 4. Prime Factorization 
 5. Next Prime Number
 6. Cost of Tile to Cover W x H Floor
+7. Mortgage calculator
+8. Change Return program
+9. Binary to Decimal and Decimal to Binary convertor
+10. Calcultor
+11. Unit convertor
+12. Alarm Clock
+13. Credit Card Validator
+14. Factorial Calculator
