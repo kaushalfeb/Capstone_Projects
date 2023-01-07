@@ -18,3 +18,6 @@
 12. Alarm Clock
 13. Credit Card Validator
 14. Factorial Calculator
+15. Happy Numbers
+16. Complex Numbers
+17. Coin Flip Simulation
