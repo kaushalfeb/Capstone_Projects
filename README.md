@@ -21,3 +21,5 @@
 15. Happy Numbers
 16. Complex Numbers
 17. Coin Flip Simulation
+18. Collatz Conjecture
+19. Sorting Algorithm- Merge and Bubble
